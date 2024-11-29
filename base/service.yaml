@@ -8,6 +8,6 @@ spec:
     app: kargo-demo
   ports:
   - protocol: TCP
-    port: 3000
+    port: 3001
     targetPort: 80
     nodePort: placeholder
